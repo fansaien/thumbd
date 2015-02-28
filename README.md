@@ -9,6 +9,14 @@ You can easily run Thumbd on *Heroku*. Simply set the appropriate environment va
 
 Note: Creating video thumbnails on Heroku requires use of custom [ffmpeg](https://github.com/shunjikonishi/heroku-buildpack-ffmpeg) buildpack. Please refer to [Heroku deployment guide](https://github.com/bcoe/thumbd/wiki/Running-Thumbd-on-Heroku) in Wiki.
 
+MODIFY
+-----
+* Support SignatureVersion V4
+* Support Region of China
+* Replace Knox by AWS SDK
+* Can't connect to S3 by HTTP Now !!!
+
+
 Setup
 -----
 
